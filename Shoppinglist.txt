@@ -6,3 +6,5 @@ Shoppilg List:
 4.cherries
 5.sweets
 6.cereal
+7.Cucumbers
+8.Raddish
