@@ -1,7 +1,8 @@
 Shoppilg List:
 
-apple
-banana
-mango
-cherries
-sweets
+1.apple
+2.banana
+3.mango
+4.cherries
+5.sweets
+6.cereal
